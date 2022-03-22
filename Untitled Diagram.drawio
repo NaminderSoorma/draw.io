@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T12:33:49.083Z" agent="5.0 (Windows)" etag="A6jN-BSNGCZbYjJB7VOv" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-22T12:34:51.428Z" agent="5.0 (Windows)" etag="eJJPuWJZcJSkhref3fv0" version="15.9.4" type="github">
   <diagram id="79-s5XHoGDIOHGQPfeBm" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,12 @@
         </mxCell>
         <mxCell id="lj4PL6lqvF0ZKJ8xrtYB-10" value="BARS MessageHeader - ServiceRequest-Response" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="330" y="550" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lj4PL6lqvF0ZKJ8xrtYB-11" value="BARS ServiceRequest-Request Referral" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="69" y="650" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lj4PL6lqvF0ZKJ8xrtYB-12" value="BARS ServiceRequest-Request Validation" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="69" y="690" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
