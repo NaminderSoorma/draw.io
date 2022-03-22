@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T12:57:01.273Z" agent="5.0 (Windows)" etag="VSe1ysUQRV3ablhnZdqf" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-22T12:58:32.285Z" agent="5.0 (Windows)" etag="G17KHrLABFFHHEsIVcp4" version="15.9.4" type="github">
   <diagram id="79-s5XHoGDIOHGQPfeBm" name="Page-1">
     <mxGraphModel dx="1422" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,16 +35,16 @@
           <mxGeometry x="40" y="700" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lj4PL6lqvF0ZKJ8xrtYB-9" value="BARS MessageHeader - ServiceRequest-Request" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="210" y="240" width="370" height="20" as="geometry" />
+          <mxGeometry x="210" y="210" width="370" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lj4PL6lqvF0ZKJ8xrtYB-10" value="BARS MessageHeader - ServiceRequest-Response" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="210" y="450" width="390" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lj4PL6lqvF0ZKJ8xrtYB-11" value="BARS ServiceRequest-Request Referral" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="240" y="267.5" width="300" height="20" as="geometry" />
+          <mxGeometry x="240" y="240" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lj4PL6lqvF0ZKJ8xrtYB-12" value="BARS ServiceRequest-Request Validation" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="240" y="312.5" width="310" height="20" as="geometry" />
+          <mxGeometry x="235" y="270" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lj4PL6lqvF0ZKJ8xrtYB-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -60,8 +60,8 @@
         </mxCell>
         <mxCell id="lj4PL6lqvF0ZKJ8xrtYB-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="210" as="sourcePoint" />
-            <mxPoint x="600" y="210" as="targetPoint" />
+            <mxPoint x="200" y="299.5" as="sourcePoint" />
+            <mxPoint x="600" y="299.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lj4PL6lqvF0ZKJ8xrtYB-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
